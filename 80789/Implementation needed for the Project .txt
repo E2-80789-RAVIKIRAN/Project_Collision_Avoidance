@@ -1,0 +1,15 @@
+Rest of the Project to be Implemented :-
+
+Using an Inertial Measurement Unit (IMU)
+
+IMU in a collision avoidance project can enhance the system's understanding of the vehicle's motion and dynamics.
+ 
+ An IMU is typically a combination of accelerometers, gyroscopes, and magnetometers.( Magnetometers are optional).
+ 
+ An IMU consists of piezoelectric crystal: 
+ 
+ The piezoelectric crystal converts the force acting upon it into electrical signals, which can enhance safety by accurately measuring a vehicle’s motion, enabling collision avoidance.
+ 
+We can implement Hepatic feedbacks to the driver alerting Driver about collision warning based upon Driving Conditions.
+
+https://medium.com/@SomaticLabs/getting-started-with-haptic-feedback-arduino-guide-c3a38b364b2a
